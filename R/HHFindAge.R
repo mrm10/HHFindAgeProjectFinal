@@ -15,15 +15,7 @@ Fac0405 <- read.csv(textConnection(Fac0405))
 
 #Data Cleaned
 Fac0405r = na.omit(Fac0405)
-Fac0506r = na.omit(Fac0506)
-Fac0607r = na.omit(Fac0607)
-Fac0708r = na.omit(Fac0708)
-Fac0809r = na.omit(Fac0809)
-Fac0910r = na.omit(Fac0910)
-Fac1011r = na.omit(Fac1011)
-Fac1112r = na.omit(Fac1112)
-Fac1213r = na.omit(Fac1213)
-Fac1314r = na.omit(Fac1314)
+
 
 #All Average Ages
 avgage405 = round(with(Fac0405r,mean(Age)),digits=1)
