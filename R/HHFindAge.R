@@ -3,9 +3,13 @@
 #'@param academicyear This function allows tour to input academic year in order to find the average age and other factors for that year
 #'@description Work Please
  
-findage <- function(academicyear, type = "average", department = "None", gender = "None",yearterminal="None",TimebwBAandTerminalbyDept="None",sumstats=FALSE,facultynumber=FALSE,stddev=FALSE) {
-library(Rcurl)
+library(RCurl)
 library(foreign)
+
+findage <- function(academicyear, type = "average", department = "None", gender = "None",yearterminal="None",TimebwBAandTerminalbyDept="None",sumstats=FALSE,facultynumber=FALSE,stddev=FALSE) {
+library(RCurl)
+library(foreign)
+
 url <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/04%2005%20Faculty.csv"
 
 #All data
