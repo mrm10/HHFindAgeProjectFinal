@@ -6,16 +6,16 @@
 findage <- function(academicyear, type = "average", department = "None", gender = "None",yearterminal="None",TimebwBAandTerminalbyDept="None",sumstats=FALSE,facultynumber=FALSE,stddev=FALSE) {
   
 #All data
-Fac0405 = read.csv("./data/04 05 Faculty.csv")
-Fac0506 = read.csv("./data/05 06 Faculty.csv")
-Fac0607 = read.csv("./data/06 07 Faculty.csv")
-Fac0708 = read.csv("./data/07 08 Faculty.csv")
-Fac0809 = read.csv("./data/08 09 Faculty.csv")
-Fac0910 = read.csv("./data/09 10 Faculty.csv")
-Fac1011 = read.csv("./data/10 11 Faculty.csv")
-Fac1112 = read.csv("./data/11 12 Faculty.csv")
-Fac1213 = read.csv("./data/1213 Faculty.csv")
-Fac1314 = read.csv("./data/1314 Faculty.csv")
+Fac0405 = read.csv("04 05 Faculty.csv")
+Fac0506 = read.csv("05 06 Faculty.csv")
+Fac0607 = read.csv("06 07 Faculty.csv")
+Fac0708 = read.csv("07 08 Faculty.csv")
+Fac0809 = read.csv("08 09 Faculty.csv")
+Fac0910 = read.csv("09 10 Faculty.csv")
+Fac1011 = read.csv("10 11 Faculty.csv")
+Fac1112 = read.csv("11 12 Faculty.csv")
+Fac1213 = read.csv("1213 Faculty.csv")
+Fac1314 = read.csv("1314 Faculty.csv")
 
 #Data Cleaned
 Fac0405r = na.omit(Fac0405)
