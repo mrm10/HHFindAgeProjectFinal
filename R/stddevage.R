@@ -1,20 +1,51 @@
-#'@title WC Stddevage HHMM18
-#'@name stddevagewcf
-#'@description sweet
+#'@title stddevage
+#'@name wcagepredsstddevage
+#'@description Allows a user to find the standard deviation of the faculty age distribution at Williams College in a given academic year
+#'@param academicyear This function allows a user to input academic year in order to find the average age and other characteristics for that year
+#'@param stddevage When set to True displays the standard deviation of the Williams College faculty in the inputted academic year and when set to FALSE outputs the average age for that given academic year
 
+#Defining the Function
 stddevage <- function(academicyear,stddevage=TRUE){
 
+  #Loading packages to download data from GitHub
+  library(RCurl)
+  library(foreign)
+  
+  #Defining urls
+  url1 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/04%2005%20Faculty.csv"
+  url2 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/05%2006%20Faculty.csv"
+  url3 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/06%2007%20Faculty.csv"
+  url4 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/07%2008%20Faculty.csv"
+  url5 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/08%2009%20Faculty.csv"
+  url6 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/09%2010%20Faculty.csv"
+  url7 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/10%2011%20Faculty.csv"
+  url8 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/11%2012%20Faculty.csv"
+  url9 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/1213%20Faculty.csv"
+  url10 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/1314%20Faculty.csv"
+  
+  
+  
   #All data
-  Fac0405 = read.csv("data/04 05 Faculty.csv")
-  Fac0506 = read.csv("data/05 06 Faculty.csv")
-  Fac0607 = read.csv("data/06 07 Faculty.csv")
-  Fac0708 = read.csv("data/07 08 Faculty.csv")
-  Fac0809 = read.csv("data/08 09 Faculty.csv")
-  Fac0910 = read.csv("data/09 10 Faculty.csv")
-  Fac1011 = read.csv("data/10 11 Faculty.csv")
-  Fac1112 = read.csv("data/11 12 Faculty.csv")
-  Fac1213 = read.csv("data/1213 Faculty.csv")
-  Fac1314 = read.csv("data/1314 Faculty.csv")
+  Fac0405 <- getURL(url1)
+  Fac0405 <- read.csv(textConnection(Fac0405))
+  Fac0506 <- getURL(url2)
+  Fac0506 <- read.csv(textConnection(Fac0506))
+  Fac0607 <- getURL(url3)
+  Fac0607 <- read.csv(textConnection(Fac0607))
+  Fac0708 <- getURL(url4)
+  Fac0708 <- read.csv(textConnection(Fac0708))
+  Fac0809 <- getURL(url5)
+  Fac0809 <- read.csv(textConnection(Fac0809))
+  Fac0910 <- getURL(url6)
+  Fac0910 <- read.csv(textConnection(Fac0910))
+  Fac1011 <- getURL(url7)
+  Fac1011 <- read.csv(textConnection(Fac1011))
+  Fac1112 <- getURL(url8)
+  Fac1112 <- read.csv(textConnection(Fac1112))
+  Fac1213 <- getURL(url9)
+  Fac1213 <- read.csv(textConnection(Fac1213))
+  Fac1314 <- getURL(url10)
+  Fac1314 <- read.csv(textConnection(Fac1314))
   
   #Data Cleaned
   Fac0405r = na.omit(Fac0405)
@@ -27,6 +58,7 @@ stddevage <- function(academicyear,stddevage=TRUE){
   Fac1112r = na.omit(Fac1112)
   Fac1213r = na.omit(Fac1213)
   Fac1314r = na.omit(Fac1314)
+  
   
   #All Average Ages
   avgage405 = round(with(Fac0405r,mean(Age)),digits=1)
@@ -153,7 +185,8 @@ stddevage <- function(academicyear,stddevage=TRUE){
   numberoffaculty1213 = 401
   numberoffaculty1314 = 418
   
-
+  #Defining Loop Based on Input to Print Final Result
+  
 if(stddevage==TRUE){
   result = get(paste0("sdage",academicyear))
 }

@@ -1,8 +1,8 @@
-Package: HHFindAge
+Package: wcagepreds
 Type: Package
-Title: Estimating Williams College Faculty Name
+Title: Estimating Williams College Faculty Age
 Version: 1.0
-Date: 2016-02-01
+Date: 2016-02-03
 Author: Matthew Morris
 Maintainer: Matthew Morris <mrm10@williams.edu>
 Description: Finds Age of Williams College Faculty over several years and other characteristics of the Faculty such as department, gender, and terminal degree.
