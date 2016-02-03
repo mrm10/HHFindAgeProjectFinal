@@ -10,15 +10,52 @@ findage <- function(academicyear, type = "average", department = "None", gender 
 library(RCurl)
 library(foreign)
 
-url <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/04%2005%20Faculty.csv"
+url1 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/04%2005%20Faculty.csv"
+url2 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/05%2006%20Faculty.csv"
+url3 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/06%2007%20Faculty.csv"
+url4 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/07%2008%20Faculty.csv"
+url5 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/08%2009%20Faculty.csv"
+url6 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/09%2010%20Faculty.csv"
+url7 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/10%2011%20Faculty.csv"
+url8 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/11%2012%20Faculty.csv"
+url9 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/1213%20Faculty.csv"
+url10 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/1314%20Faculty.csv"
+
+
 
 #All data
-Fac0405 <- getURL(url)
+Fac0405 <- getURL(url1)
 Fac0405 <- read.csv(textConnection(Fac0405))
-
+Fac0506 <- getURL(url2)
+Fac0506 <- read.csv(textConnection(Fac0506))
+Fac0607 <- getURL(url3)
+Fac0607 <- read.csv(textConnection(Fac0607))
+Fac0708 <- getURL(url4)
+Fac0708 <- read.csv(textConnection(Fac0708))
+Fac0809 <- getURL(url5)
+Fac0809 <- read.csv(textConnection(Fac0809))
+Fac0910 <- getURL(url6)
+Fac0910 <- read.csv(textConnection(Fac0910))
+Fac1011 <- getURL(url7)
+Fac1011 <- read.csv(textConnection(Fac1011))
+Fac1112 <- getURL(url8)
+Fac1112 <- read.csv(textConnection(Fac1112))
+Fac1213 <- getURL(url9)
+Fac1213 <- read.csv(textConnection(Fac1213))
+Fac1314 <- getURL(url10)
+Fac1314 <- read.csv(textConnection(Fac1314))
 
 #Data Cleaned
 Fac0405r = na.omit(Fac0405)
+Fac0506r = na.omit(Fac0506)
+Fac0607r = na.omit(Fac0607)
+Fac0708r = na.omit(Fac0708)
+Fac0809r = na.omit(Fac0809)
+Fac0910r = na.omit(Fac0910)
+Fac1011r = na.omit(Fac1011)
+Fac1112r = na.omit(Fac1112)
+Fac1213r = na.omit(Fac1213)
+Fac1314r = na.omit(Fac1314)
 
 
 #All Average Ages
