@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  2 FEB 2016 14:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  2 FEB 2016 21:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -715,204 +715,205 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EveryShipout initializing macros
-LaTeX Font Info:    Try loading font information for U+msa on input line 122.
+LaTeX Font Info:    Try loading font information for U+msa on input line 123.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 122.
+LaTeX Font Info:    Try loading font information for U+msb on input line 123.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
-Package xcolor Warning: Incompatible color definition on input line 146.
+Package xcolor Warning: Incompatible color definition on input line 147.
 
 <figure/unnamed-chunk-6-1.pdf, id=4, 578.16pt x 433.62pt>
 File: figure/unnamed-chunk-6-1.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-6-1.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-6-1.pdf used on input line 147.
+Package pdftex.def Info: figure/unnamed-chunk-6-1.pdf used on input line 148.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./figur
 e/unnamed-chunk-6-1.pdf>] [2]
 
-Package xcolor Warning: Incompatible color definition on input line 222.
+Package xcolor Warning: Incompatible color definition on input line 225.
 
 <figure/unnamed-chunk-8-1.pdf, id=22, 578.16pt x 578.16pt>
 File: figure/unnamed-chunk-8-1.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-8-1.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-8-1.pdf used on input line 223.
+Package pdftex.def Info: figure/unnamed-chunk-8-1.pdf used on input line 226.
 (pdftex.def)             Requested size: 390.0pt x 389.99414pt.
  [3 <./figure/unnamed-chunk-8-1.pdf>]
 
-Package xcolor Warning: Incompatible color definition on input line 255.
+Package xcolor Warning: Incompatible color definition on input line 263.
 
 <figure/unnamed-chunk-9-1.pdf, id=32, 578.16pt x 433.62pt>
 File: figure/unnamed-chunk-9-1.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-9-1.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-9-1.pdf used on input line 256.
+Package pdftex.def Info: figure/unnamed-chunk-9-1.pdf used on input line 264.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
 
-<figure/unnamed-chunk-9-2.pdf, id=33, 578.16pt x 433.62pt>
+<figure/unnamed-chunk-9-2.pdf, id=33, 578.16pt x 433.62pt> [4]
 File: figure/unnamed-chunk-9-2.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-9-2.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-9-2.pdf used on input line 258.
+Package pdftex.def Info: figure/unnamed-chunk-9-2.pdf used on input line 266.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
 
-<figure/unnamed-chunk-9-3.pdf, id=34, 578.16pt x 433.62pt> [4 <./figure/unnamed
--chunk-9-1.pdf>]
+<figure/unnamed-chunk-9-3.pdf, id=37, 578.16pt x 433.62pt>
 File: figure/unnamed-chunk-9-3.pdf Graphic file (type pdf)
- <use figure/unnamed-chunk-9-3.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-9-3.pdf used on input line 260.
+
+<use figure/unnamed-chunk-9-3.pdf>
+Package pdftex.def Info: figure/unnamed-chunk-9-3.pdf used on input line 268.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
 
-<figure/unnamed-chunk-9-4.pdf, id=44, 578.16pt x 433.62pt>
+<figure/unnamed-chunk-9-4.pdf, id=38, 578.16pt x 433.62pt> [5 <./figure/unnamed
+-chunk-9-1.pdf> <./figure/unnamed-chunk-9-2.pdf>]
 File: figure/unnamed-chunk-9-4.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-9-4.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-9-4.pdf used on input line 262.
+Package pdftex.def Info: figure/unnamed-chunk-9-4.pdf used on input line 270.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
 
-<figure/unnamed-chunk-9-5.pdf, id=45, 578.16pt x 433.62pt> [5 <./figure/unnamed
--chunk-9-2.pdf> <./figure/unnamed-chunk-9-3.pdf>]
+<figure/unnamed-chunk-9-5.pdf, id=54, 578.16pt x 433.62pt>
 File: figure/unnamed-chunk-9-5.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-9-5.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-9-5.pdf used on input line 264.
+Package pdftex.def Info: figure/unnamed-chunk-9-5.pdf used on input line 272.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
 
-<figure/unnamed-chunk-9-6.pdf, id=61, 578.16pt x 433.62pt>
+<figure/unnamed-chunk-9-6.pdf, id=55, 578.16pt x 433.62pt> [6 <./figure/unnamed
+-chunk-9-3.pdf> <./figure/unnamed-chunk-9-4.pdf>]
 File: figure/unnamed-chunk-9-6.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-9-6.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-9-6.pdf used on input line 266.
+Package pdftex.def Info: figure/unnamed-chunk-9-6.pdf used on input line 274.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
 
-<figure/unnamed-chunk-9-7.pdf, id=62, 578.16pt x 433.62pt> [6 <./figure/unnamed
--chunk-9-4.pdf> <./figure/unnamed-chunk-9-5.pdf>]
+<figure/unnamed-chunk-9-7.pdf, id=71, 578.16pt x 433.62pt>
 File: figure/unnamed-chunk-9-7.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-9-7.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-9-7.pdf used on input line 268.
+Package pdftex.def Info: figure/unnamed-chunk-9-7.pdf used on input line 276.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
 
-<figure/unnamed-chunk-9-8.pdf, id=78, 578.16pt x 433.62pt>
+<figure/unnamed-chunk-9-8.pdf, id=72, 578.16pt x 433.62pt> [7 <./figure/unnamed
+-chunk-9-5.pdf> <./figure/unnamed-chunk-9-6.pdf>]
 File: figure/unnamed-chunk-9-8.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-9-8.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-9-8.pdf used on input line 270.
+Package pdftex.def Info: figure/unnamed-chunk-9-8.pdf used on input line 278.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
 
-<figure/unnamed-chunk-9-9.pdf, id=79, 578.16pt x 433.62pt> [7 <./figure/unnamed
--chunk-9-6.pdf> <./figure/unnamed-chunk-9-7.pdf>]
+<figure/unnamed-chunk-9-9.pdf, id=89, 578.16pt x 433.62pt>
 File: figure/unnamed-chunk-9-9.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-9-9.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-9-9.pdf used on input line 272.
+Package pdftex.def Info: figure/unnamed-chunk-9-9.pdf used on input line 280.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
 
-<figure/unnamed-chunk-9-10.pdf, id=96, 578.16pt x 433.62pt>
+<figure/unnamed-chunk-9-10.pdf, id=90, 578.16pt x 433.62pt> [8 <./figure/unname
+d-chunk-9-7.pdf> <./figure/unnamed-chunk-9-8.pdf>]
 File: figure/unnamed-chunk-9-10.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-9-10.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-9-10.pdf used on input line 274.
+Package pdftex.def Info: figure/unnamed-chunk-9-10.pdf used on input line 282.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
- [8 <./figure/unnamed-chunk-9-8.pdf> <./figure/unnamed-chunk-9-9.pdf>]
+ [9 <./figure/unnamed-chunk-9-9.pdf> <./figure/unnamed-chunk-9-10.pdf>]
 
-Package xcolor Warning: Incompatible color definition on input line 282.
+Package xcolor Warning: Incompatible color definition on input line 294.
 
-<figure/unnamed-chunk-10-1.pdf, id=112, 578.16pt x 433.62pt>
+<figure/unnamed-chunk-10-1.pdf, id=121, 578.16pt x 433.62pt>
 File: figure/unnamed-chunk-10-1.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-10-1.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-10-1.pdf used on input line 283.
+Package pdftex.def Info: figure/unnamed-chunk-10-1.pdf used on input line 295.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
- [9 <./figure/unnamed-chunk-9-10.pdf>]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 284.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 296.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 286--286
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 298--298
 []\OT1/pcr/m/n/12 ##  AFR ANTH  ART ARTH ASST ASTR  BIO CHEM CHIN CLAS COMP CSC
 I[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 287--287
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 299--299
 []\OT1/pcr/m/n/12 ## 42.3 47.0 48.7 53.0 54.0 56.7 45.7 47.3 37.3 45.4 44.7 44.
 8[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 288--288
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 300--300
 []\OT1/pcr/m/n/12 ## DANC ECON ENGL ENVI GEOS GERM GOES HIST HSCI JAPN  KOR LAT
 S[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 289--289
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 301--301
 []\OT1/pcr/m/n/12 ## 50.0 43.1 46.8 47.0 49.5 49.0 44.0 43.8 68.0 43.7 35.0 32.
 0[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 290--290
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 302--302
 []\OT1/pcr/m/n/12 ## LEAD  LIB LING MAST MATH  MUS   PE PHIL PHYS PSCI PSYC  RE
 L[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 291--291
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 303--303
 []\OT1/pcr/m/n/12 ## 61.5 44.6 30.0 55.0 43.9 45.9 42.9 42.5 41.1 43.3 43.2 43.
 4[] 
  []
 
-<figure/unnamed-chunk-10-2.pdf, id=122, 578.16pt x 433.62pt>
+[10 <./figure/unnamed-chunk-10-1.pdf>]
+<figure/unnamed-chunk-10-2.pdf, id=132, 578.16pt x 433.62pt>
 File: figure/unnamed-chunk-10-2.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-10-2.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-10-2.pdf used on input line 296.
+Package pdftex.def Info: figure/unnamed-chunk-10-2.pdf used on input line 308.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
- [10 <./figure/unnamed-chunk-10-1.pdf>]
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 299--299
+
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 311--311
 []\OT1/pcr/m/n/12 ##  AFR ANTH  ART ARTH ASST ASTR  BIO CHEM CHIN CLAS COMP CSC
 I[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 300--300
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 312--312
 []\OT1/pcr/m/n/12 ## 43.3 48.0 49.7 54.0 55.0 57.7 46.7 48.3 38.3 46.4 45.7 45.
 8[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 301--301
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 313--313
 []\OT1/pcr/m/n/12 ## DANC ECON ENGL ENVI GEOS GERM GOES HIST HSCI JAPN  KOR LAT
 S[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 302--302
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 314--314
 []\OT1/pcr/m/n/12 ## 51.0 44.1 47.8 48.0 50.5 50.0 45.0 44.8 69.0 44.7 36.0 33.
 0[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 303--303
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 315--315
 []\OT1/pcr/m/n/12 ## LEAD  LIB LING MAST MATH  MUS   PE PHIL PHYS PSCI PSYC  RE
 L[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 304--304
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 316--316
 []\OT1/pcr/m/n/12 ## 62.5 45.6 31.0 56.0 44.9 46.9 43.9 42.9 42.1 44.3 44.2 44.
 4[] 
  []
@@ -921,40 +922,40 @@ Overfull \hbox (56.39981pt too wide) in paragraph at lines 304--304
 File: figure/unnamed-chunk-10-3.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-10-3.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-10-3.pdf used on input line 309.
+Package pdftex.def Info: figure/unnamed-chunk-10-3.pdf used on input line 321.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [11 <./figure/unnamed-chunk-10-2.pdf>]
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 312--312
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 324--324
 []\OT1/pcr/m/n/12 ##  AFR AMST ANTH  ART ARTH ASST ASTR  BIO CHEM CHIN CLAS COM
 P[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 313--313
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 325--325
 []\OT1/pcr/m/n/12 ## 40.4 34.0 51.0 50.4 55.7 56.0 58.7 47.7 46.1 37.0 47.4 46.
 7[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 314--314
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 326--326
 []\OT1/pcr/m/n/12 ## CSCI DANC ECON ENGL ENVI GEOS GERM GOES HIST HSCI JAPN  KO
 R[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 315--315
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 327--327
 []\OT1/pcr/m/n/12 ## 40.1 52.0 42.1 49.6 48.6 47.1 51.0 46.0 44.6 70.0 42.0 37.
 0[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 316--316
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 328--328
 []\OT1/pcr/m/n/12 ## LATS LEAD  LIB LING MAST MATH  MUS   PE PHIL PHYS PSCI PSY
 C[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 317--317
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 329--329
 []\OT1/pcr/m/n/12 ## 34.0 56.0 46.6 32.0 57.0 41.3 45.4 43.4 45.1 43.1 44.3 44.
 4[] 
  []
@@ -963,40 +964,40 @@ Overfull \hbox (56.39981pt too wide) in paragraph at lines 317--317
 File: figure/unnamed-chunk-10-4.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-10-4.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-10-4.pdf used on input line 322.
+Package pdftex.def Info: figure/unnamed-chunk-10-4.pdf used on input line 334.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [12 <./figure/unnamed-chunk-10-3.pdf>]
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 325--325
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 337--337
 []\OT1/pcr/m/n/12 ##  AFR AMST ANTH  ART ARTH ASST ASTR  BIO CHEM CHIN CLAS COM
 P[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 326--326
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 338--338
 []\OT1/pcr/m/n/12 ## 46.0 44.0 46.9 50.8 53.6 57.0 59.7 48.7 45.2 38.0 48.4 36.
 7[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 327--327
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 339--339
 []\OT1/pcr/m/n/12 ## CSCI DANC ECON ENGL ENVI GEOS GERM GOES HIST HSCI JAPN LAT
 S[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 328--328
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 340--340
 []\OT1/pcr/m/n/12 ## 40.0 45.5 44.0 50.4 54.4 49.6 48.2 47.0 47.5 71.0 43.0 35.
 3[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 329--329
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 341--341
 []\OT1/pcr/m/n/12 ## LEAD  LIB LING MAST MATH  MUS   PE PHIL PHYS PSCI PSYC  RE
 L[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 330--330
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 342--342
 []\OT1/pcr/m/n/12 ## 60.0 46.1 32.5 58.0 43.9 46.2 43.6 44.5 44.1 45.1 47.1 45.
 1[] 
  []
@@ -1005,40 +1006,40 @@ Overfull \hbox (56.39981pt too wide) in paragraph at lines 330--330
 File: figure/unnamed-chunk-10-5.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-10-5.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-10-5.pdf used on input line 335.
+Package pdftex.def Info: figure/unnamed-chunk-10-5.pdf used on input line 347.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [13 <./figure/unnamed-chunk-10-4.pdf>]
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 338--338
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 350--350
 []\OT1/pcr/m/n/12 ##  AFR AMST ANTH ARAB  ART ARTH ASST ASTR  BIO CHEM CHIN CLA
 S[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 339--339
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 351--351
 []\OT1/pcr/m/n/12 ## 32.3 45.0 50.6 37.0 50.7 57.6 58.0 62.5 49.4 46.3 35.5 41.
 0[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 340--340
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 352--352
 []\OT1/pcr/m/n/12 ## COMP CSCI DANC ECON ENGL ENVI GEOS GERM GOES HIST HSCI JAP
 N[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 341--341
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 353--353
 []\OT1/pcr/m/n/12 ## 35.5 41.0 46.5 44.9 50.2 43.8 49.9 48.2 48.0 47.2 72.0 47.
 7[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 342--342
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 354--354
 []\OT1/pcr/m/n/12 ## LATS LEAD  LIB LING MAST MATH  MUS   PE PHIL PHYS PSCI PSY
 C[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 343--343
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 355--355
 []\OT1/pcr/m/n/12 ## 34.8 57.5 46.9 33.5 59.0 44.7 48.0 43.2 49.5 43.7 47.6 49.
 2[] 
  []
@@ -1047,40 +1048,40 @@ Overfull \hbox (56.39981pt too wide) in paragraph at lines 343--343
 File: figure/unnamed-chunk-10-6.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-10-6.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-10-6.pdf used on input line 348.
+Package pdftex.def Info: figure/unnamed-chunk-10-6.pdf used on input line 360.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [14 <./figure/unnamed-chunk-10-5.pdf>]
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 351--351
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 363--363
 []\OT1/pcr/m/n/12 ##       AFR AMST ANTH ARAB  ART ARTH ASST ASTR  BIO CHEM CHI
 N[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 352--352
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 364--364
 []\OT1/pcr/m/n/12 ##   NA 36.8 46.0 54.5 38.0 53.1 58.1 59.0 61.7 50.4 48.5 42.
 3[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 353--353
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 365--365
 []\OT1/pcr/m/n/12 ## CLAS COMP CSCI DANC ECON ENGL ENVI GEOS GERM HIST HSCI JAP
 N[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 354--354
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 366--366
 []\OT1/pcr/m/n/12 ## 44.8 36.5 42.0 47.5 44.4 51.9 46.7 50.9 54.0 48.5 73.0 48.
 7[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 355--355
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 367--367
 []\OT1/pcr/m/n/12 ## LATS LEAD  LIB LING MAST MATH  MUS NSCI   PE PHIL PHYS PSC
 I[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 356--356
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 368--368
 []\OT1/pcr/m/n/12 ## 35.8 51.5 48.8 35.0 60.0 46.3 50.4 47.0 44.4 50.5 44.7 48.
 9[] 
  []
@@ -1089,40 +1090,40 @@ Overfull \hbox (56.39981pt too wide) in paragraph at lines 356--356
 File: figure/unnamed-chunk-10-7.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-10-7.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-10-7.pdf used on input line 361.
+Package pdftex.def Info: figure/unnamed-chunk-10-7.pdf used on input line 373.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [15 <./figure/unnamed-chunk-10-6.pdf>]
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 364--364
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 376--376
 []\OT1/pcr/m/n/12 ##  AFR AMST ANTH ARAB  ART ARTH ASST ASTR  BIO CHEM CHIN CLA
 S[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 365--365
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 377--377
 []\OT1/pcr/m/n/12 ## 38.5 41.0 55.5 39.0 54.0 59.1 46.5 64.5 51.2 49.5 39.5 45.
 8[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 366--366
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 378--378
 []\OT1/pcr/m/n/12 ## COMP CSCI DANC ECON ENGL ENVI GEOS GERM HIST HSCI JAPN LAT
 S[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 367--367
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 379--379
 []\OT1/pcr/m/n/12 ## 39.7 43.0 48.5 45.2 52.7 42.5 51.9 55.0 48.6 74.0 44.8 36.
 0[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 368--368
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 380--380
 []\OT1/pcr/m/n/12 ## LEAD  LIB MAST MATH  MUS NSCI   PE PHIL PHYS PSCI PSYC  RE
 L[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 369--369
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 381--381
 []\OT1/pcr/m/n/12 ## 47.7 48.8 61.0 47.3 49.8 48.0 45.0 49.1 46.0 48.2 49.4 45.
 9[] 
  []
@@ -1131,40 +1132,40 @@ Overfull \hbox (56.39981pt too wide) in paragraph at lines 369--369
 File: figure/unnamed-chunk-10-8.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-10-8.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-10-8.pdf used on input line 374.
+Package pdftex.def Info: figure/unnamed-chunk-10-8.pdf used on input line 386.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [16 <./figure/unnamed-chunk-10-7.pdf>]
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 377--377
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 389--389
 []\OT1/pcr/m/n/12 ##  AFR AMST ANTH ARAB  ART ARTH ASST ASTR  BIO CHEM CHIN CLA
 S[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 378--378
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 390--390
 []\OT1/pcr/m/n/12 ## 37.2 42.0 56.5 40.0 55.4 53.0 47.5 63.7 51.5 48.7 44.3 46.
 8[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 379--379
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 391--391
 []\OT1/pcr/m/n/12 ## COMP CSCI DANC ECON ENGL ENVI GEOS GERM HIST HSCI JAPN LAT
 S[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 380--380
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 392--392
 []\OT1/pcr/m/n/12 ## 40.7 44.0 44.0 47.0 52.7 42.0 52.9 50.8 50.8 75.0 43.8 35.
 2[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 381--381
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 393--393
 []\OT1/pcr/m/n/12 ## LEAD  LIB MAST MATH  MUS NSCI   PE PHIL PHYS PSCI PSYC  RE
 L[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 382--382
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 394--394
 []\OT1/pcr/m/n/12 ## 53.5 62.0 62.0 48.5 48.8 49.0 45.0 50.1 45.3 46.3 47.1 46.
 9[] 
  []
@@ -1173,40 +1174,40 @@ Overfull \hbox (56.39981pt too wide) in paragraph at lines 382--382
 File: figure/unnamed-chunk-10-9.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-10-9.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-10-9.pdf used on input line 387.
+Package pdftex.def Info: figure/unnamed-chunk-10-9.pdf used on input line 399.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [17 <./figure/unnamed-chunk-10-8.pdf>]
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 390--390
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 402--402
 []\OT1/pcr/m/n/12 ##  AFR AMST ANTH ARAB  ART ARTH ASST ASTR  BIO CHEM CHIN CLA
 S[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 391--391
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 403--403
 []\OT1/pcr/m/n/12 ## 38.2 41.5 53.0 35.0 53.6 53.2 62.0 66.5 53.3 47.4 43.0 43.
 0[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 392--392
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 404--404
 []\OT1/pcr/m/n/12 ## COMP CSCI DANC ECON ENGL ENVI GEOS GERM HIST HSCI JAPN LAT
 S[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 393--393
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 405--405
 []\OT1/pcr/m/n/12 ## 41.7 45.0 49.3 49.3 53.1 42.5 49.4 51.8 48.8 76.0 40.6 38.
 0[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 394--394
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 406--406
 []\OT1/pcr/m/n/12 ## LEAD  LIB MAST MATH  MUS NSCI   PE PHIL PHYS PSCI PSYC  RE
 L[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 395--395
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 407--407
 []\OT1/pcr/m/n/12 ## 58.0 63.0 63.0 46.9 46.0 50.0 44.1 49.2 47.7 44.8 46.4 44.
 3[] 
  []
@@ -1215,130 +1216,130 @@ Overfull \hbox (56.39981pt too wide) in paragraph at lines 395--395
 File: figure/unnamed-chunk-10-10.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-10-10.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-10-10.pdf used on input line 400.
+Package pdftex.def Info: figure/unnamed-chunk-10-10.pdf used on input line 412.
 
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [18 <./figure/unnamed-chunk-10-9.pdf>]
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 403--403
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 415--415
 []\OT1/pcr/m/n/12 ##       AFR AMST ANTH ARAB  ART ARTH ASST ASTR  BIO CHEM CHI
 N[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 404--404
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 416--416
 []\OT1/pcr/m/n/12 ## 44.0 43.0 42.5 54.0 37.0 54.9 49.3 63.0 67.5 51.2 47.4 40.
 2[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 405--405
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 417--417
 []\OT1/pcr/m/n/12 ## CLAS COMP CSCI DANC ECON ENGL ENVI GEOS GERM HIST HSCI INS
 T[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 406--406
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 418--418
 []\OT1/pcr/m/n/12 ## 42.4 41.0 46.0 43.5 47.6 51.7 40.3 50.8 52.2 49.3 77.0 41.
 0[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 407--407
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 419--419
 []\OT1/pcr/m/n/12 ## JAPN LATS LEAD MAST MATH  MUS NSCI   PE PHIL PHYS PSCI PSY
 C[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 408--408
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 420--420
 []\OT1/pcr/m/n/12 ## 45.2 35.0 53.0 64.0 42.9 49.6 51.0 43.9 50.2 47.3 46.7 46.
 7[] 
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 419.
+Package xcolor Warning: Incompatible color definition on input line 434.
 
 <figure/unnamed-chunk-11-1.pdf, id=215, 578.16pt x 433.62pt>
 File: figure/unnamed-chunk-11-1.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-11-1.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-11-1.pdf used on input line 420.
+Package pdftex.def Info: figure/unnamed-chunk-11-1.pdf used on input line 435.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [19 <./figure/unnamed-chunk-10-10.pdf>]
 <figure/unnamed-chunk-11-2.pdf, id=226, 578.16pt x 433.62pt>
 File: figure/unnamed-chunk-11-2.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-11-2.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-11-2.pdf used on input line 427.
+Package pdftex.def Info: figure/unnamed-chunk-11-2.pdf used on input line 442.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [20 <./figure/unnamed-chunk-11-1.pdf>]
 <figure/unnamed-chunk-11-3.pdf, id=236, 578.16pt x 433.62pt>
 File: figure/unnamed-chunk-11-3.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-11-3.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-11-3.pdf used on input line 434.
+Package pdftex.def Info: figure/unnamed-chunk-11-3.pdf used on input line 449.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [21 <./figure/unnamed-chunk-11-2.pdf>]
 <figure/unnamed-chunk-11-4.pdf, id=246, 578.16pt x 433.62pt>
 File: figure/unnamed-chunk-11-4.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-11-4.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-11-4.pdf used on input line 441.
+Package pdftex.def Info: figure/unnamed-chunk-11-4.pdf used on input line 456.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [22 <./figure/unnamed-chunk-11-3.pdf>]
 <figure/unnamed-chunk-11-5.pdf, id=256, 578.16pt x 433.62pt>
 File: figure/unnamed-chunk-11-5.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-11-5.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-11-5.pdf used on input line 448.
+Package pdftex.def Info: figure/unnamed-chunk-11-5.pdf used on input line 463.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [23 <./figure/unnamed-chunk-11-4.pdf>]
 <figure/unnamed-chunk-11-6.pdf, id=266, 578.16pt x 433.62pt>
 File: figure/unnamed-chunk-11-6.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-11-6.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-11-6.pdf used on input line 455.
+Package pdftex.def Info: figure/unnamed-chunk-11-6.pdf used on input line 470.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [24 <./figure/unnamed-chunk-11-5.pdf>]
 <figure/unnamed-chunk-11-7.pdf, id=276, 578.16pt x 433.62pt>
 File: figure/unnamed-chunk-11-7.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-11-7.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-11-7.pdf used on input line 462.
+Package pdftex.def Info: figure/unnamed-chunk-11-7.pdf used on input line 477.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [25 <./figure/unnamed-chunk-11-6.pdf>]
 <figure/unnamed-chunk-11-8.pdf, id=287, 578.16pt x 433.62pt>
 File: figure/unnamed-chunk-11-8.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-11-8.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-11-8.pdf used on input line 469.
+Package pdftex.def Info: figure/unnamed-chunk-11-8.pdf used on input line 484.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [26 <./figure/unnamed-chunk-11-7.pdf>]
 <figure/unnamed-chunk-11-9.pdf, id=297, 578.16pt x 433.62pt>
 File: figure/unnamed-chunk-11-9.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-11-9.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-11-9.pdf used on input line 476.
+Package pdftex.def Info: figure/unnamed-chunk-11-9.pdf used on input line 491.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [27 <./figure/unnamed-chunk-11-8.pdf>]
 <figure/unnamed-chunk-11-10.pdf, id=308, 578.16pt x 433.62pt>
 File: figure/unnamed-chunk-11-10.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-11-10.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-11-10.pdf used on input line 483.
+Package pdftex.def Info: figure/unnamed-chunk-11-10.pdf used on input line 498.
 
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [28 <./figure/unnamed-chunk-11-9.pdf>]
 
-Package xcolor Warning: Incompatible color definition on input line 496.
+Package xcolor Warning: Incompatible color definition on input line 511.
 
 <figure/unnamed-chunk-12-1.pdf, id=318, 578.16pt x 433.62pt>
 File: figure/unnamed-chunk-12-1.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-12-1.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-12-1.pdf used on input line 497.
+Package pdftex.def Info: figure/unnamed-chunk-12-1.pdf used on input line 512.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [29 <./figure/unnamed-chunk-11-10.pdf>]
-Overfull \hbox (113.99979pt too wide) in paragraph at lines 499--499
+Overfull \hbox (113.99979pt too wide) in paragraph at lines 514--514
 []\OT1/pcr/m/n/12 ## [1] "Correlation Between Age and Year of Terminal Degree 2
 004-2005"[] 
  []
@@ -1347,10 +1348,10 @@ Overfull \hbox (113.99979pt too wide) in paragraph at lines 499--499
 File: figure/unnamed-chunk-12-2.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-12-2.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-12-2.pdf used on input line 503.
+Package pdftex.def Info: figure/unnamed-chunk-12-2.pdf used on input line 518.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [30 <./figure/unnamed-chunk-12-1.pdf>]
-Overfull \hbox (113.99979pt too wide) in paragraph at lines 505--505
+Overfull \hbox (113.99979pt too wide) in paragraph at lines 520--520
 []\OT1/pcr/m/n/12 ## [1] "Correlation Between Age and Year of Terminal Degree 2
 005-2006"[] 
  []
@@ -1359,10 +1360,10 @@ Overfull \hbox (113.99979pt too wide) in paragraph at lines 505--505
 File: figure/unnamed-chunk-12-3.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-12-3.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-12-3.pdf used on input line 509.
+Package pdftex.def Info: figure/unnamed-chunk-12-3.pdf used on input line 524.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [31 <./figure/unnamed-chunk-12-2.pdf>]
-Overfull \hbox (113.99979pt too wide) in paragraph at lines 511--511
+Overfull \hbox (113.99979pt too wide) in paragraph at lines 526--526
 []\OT1/pcr/m/n/12 ## [1] "Correlation Between Age and Year of Terminal Degree 2
 006-2007"[] 
  []
@@ -1371,10 +1372,10 @@ Overfull \hbox (113.99979pt too wide) in paragraph at lines 511--511
 File: figure/unnamed-chunk-12-4.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-12-4.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-12-4.pdf used on input line 515.
+Package pdftex.def Info: figure/unnamed-chunk-12-4.pdf used on input line 530.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [32 <./figure/unnamed-chunk-12-3.pdf>]
-Overfull \hbox (113.99979pt too wide) in paragraph at lines 517--517
+Overfull \hbox (113.99979pt too wide) in paragraph at lines 532--532
 []\OT1/pcr/m/n/12 ## [1] "Correlation Between Age and Year of Terminal Degree 2
 007-2008"[] 
  []
@@ -1383,10 +1384,10 @@ Overfull \hbox (113.99979pt too wide) in paragraph at lines 517--517
 File: figure/unnamed-chunk-12-5.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-12-5.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-12-5.pdf used on input line 521.
+Package pdftex.def Info: figure/unnamed-chunk-12-5.pdf used on input line 536.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [33 <./figure/unnamed-chunk-12-4.pdf>]
-Overfull \hbox (113.99979pt too wide) in paragraph at lines 523--523
+Overfull \hbox (113.99979pt too wide) in paragraph at lines 538--538
 []\OT1/pcr/m/n/12 ## [1] "Correlation Between Age and Year of Terminal Degree 2
 008-2009"[] 
  []
@@ -1395,10 +1396,10 @@ Overfull \hbox (113.99979pt too wide) in paragraph at lines 523--523
 File: figure/unnamed-chunk-12-6.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-12-6.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-12-6.pdf used on input line 527.
+Package pdftex.def Info: figure/unnamed-chunk-12-6.pdf used on input line 542.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [34 <./figure/unnamed-chunk-12-5.pdf>]
-Overfull \hbox (113.99979pt too wide) in paragraph at lines 529--529
+Overfull \hbox (113.99979pt too wide) in paragraph at lines 544--544
 []\OT1/pcr/m/n/12 ## [1] "Correlation Between Age and Year of Terminal Degree 2
 009-2010"[] 
  []
@@ -1407,10 +1408,10 @@ Overfull \hbox (113.99979pt too wide) in paragraph at lines 529--529
 File: figure/unnamed-chunk-12-7.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-12-7.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-12-7.pdf used on input line 533.
+Package pdftex.def Info: figure/unnamed-chunk-12-7.pdf used on input line 548.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [35 <./figure/unnamed-chunk-12-6.pdf>]
-Overfull \hbox (113.99979pt too wide) in paragraph at lines 535--535
+Overfull \hbox (113.99979pt too wide) in paragraph at lines 550--550
 []\OT1/pcr/m/n/12 ## [1] "Correlation Between Age and Year of Terminal Degree 2
 010-2011"[] 
  []
@@ -1419,10 +1420,10 @@ Overfull \hbox (113.99979pt too wide) in paragraph at lines 535--535
 File: figure/unnamed-chunk-12-8.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-12-8.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-12-8.pdf used on input line 539.
+Package pdftex.def Info: figure/unnamed-chunk-12-8.pdf used on input line 554.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [36 <./figure/unnamed-chunk-12-7.pdf>]
-Overfull \hbox (113.99979pt too wide) in paragraph at lines 541--541
+Overfull \hbox (113.99979pt too wide) in paragraph at lines 556--556
 []\OT1/pcr/m/n/12 ## [1] "Correlation Between Age and Year of Terminal Degree 2
 011-2012"[] 
  []
@@ -1431,10 +1432,10 @@ Overfull \hbox (113.99979pt too wide) in paragraph at lines 541--541
 File: figure/unnamed-chunk-12-9.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-12-9.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-12-9.pdf used on input line 545.
+Package pdftex.def Info: figure/unnamed-chunk-12-9.pdf used on input line 560.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [37 <./figure/unnamed-chunk-12-8.pdf>]
-Overfull \hbox (113.99979pt too wide) in paragraph at lines 547--547
+Overfull \hbox (113.99979pt too wide) in paragraph at lines 562--562
 []\OT1/pcr/m/n/12 ## [1] "Correlation Between Age and Year of Terminal Degree 2
 012-2013"[] 
  []
@@ -1443,68 +1444,68 @@ Overfull \hbox (113.99979pt too wide) in paragraph at lines 547--547
 File: figure/unnamed-chunk-12-10.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-12-10.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-12-10.pdf used on input line 551.
+Package pdftex.def Info: figure/unnamed-chunk-12-10.pdf used on input line 566.
 
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [38 <./figure/unnamed-chunk-12-9.pdf>]
-Overfull \hbox (113.99979pt too wide) in paragraph at lines 553--553
+Overfull \hbox (113.99979pt too wide) in paragraph at lines 568--568
 []\OT1/pcr/m/n/12 ## [1] "Correlation Between Age and Year of Terminal Degree 2
 013-2014"[] 
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 563.
+Package xcolor Warning: Incompatible color definition on input line 578.
 
 <figure/unnamed-chunk-13-1.pdf, id=420, 578.16pt x 433.62pt>
 File: figure/unnamed-chunk-13-1.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-13-1.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-13-1.pdf used on input line 564.
+Package pdftex.def Info: figure/unnamed-chunk-13-1.pdf used on input line 579.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [39 <./figure/unnamed-chunk-12-10.pdf>]
-LaTeX Font Info:    Try loading font information for TS1+pcr on input line 566.
+LaTeX Font Info:    Try loading font information for TS1+pcr on input line 581.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ts1pcr.fd
 File: ts1pcr.fd 2001/06/04 font definitions for TS1/pcr.
 )
-Overfull \hbox (113.99979pt too wide) in paragraph at lines 566--566
+Overfull \hbox (113.99979pt too wide) in paragraph at lines 581--581
 []\OT1/pcr/m/n/12 ## [1] "Avg Time b/w Bachelor\TS1/pcr/m/n/12 '\OT1/pcr/m/n/12
  s and Terminal Degree by Dept 2004-2005"[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 567--567
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 582--582
 []\OT1/pcr/m/n/12 ##  AFR ANTH  ART ARTH ASST ASTR  BIO CHEM CHIN CLAS COMP CSC
 I[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 568--568
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 583--583
 []\OT1/pcr/m/n/12 ##  7.0 10.6  7.0 12.6  9.0  6.3  6.7  5.7 15.0  7.6  9.0  8.
 1[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 569--569
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 584--584
 []\OT1/pcr/m/n/12 ## DANC ECON ENGL ENVI GEOS GERM GOES HIST HSCI JAPN  KOR LAT
 S[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 570--570
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 585--585
 []\OT1/pcr/m/n/12 ## 11.0  7.8  6.9 12.7  5.5  4.8 16.0  9.0  8.0 13.3 11.0  9.
 5[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 571--571
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 586--586
 []\OT1/pcr/m/n/12 ## LEAD  LIB LING MAST MATH  MUS   PE PHIL PHYS PSCI PSYC  RE
 L[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 572--572
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 587--587
 []\OT1/pcr/m/n/12 ##  7.0  6.8  7.0  8.0  6.0  9.0  7.4  9.6  6.0 10.1  5.9 10.
 7[] 
  []
@@ -1513,46 +1514,46 @@ Overfull \hbox (56.39981pt too wide) in paragraph at lines 572--572
 File: figure/unnamed-chunk-13-2.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-13-2.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-13-2.pdf used on input line 577.
+Package pdftex.def Info: figure/unnamed-chunk-13-2.pdf used on input line 592.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [40 <./figure/unnamed-chunk-13-1.pdf>]
-Overfull \hbox (113.99979pt too wide) in paragraph at lines 579--579
+Overfull \hbox (113.99979pt too wide) in paragraph at lines 594--594
 []\OT1/pcr/m/n/12 ## [1] "Avg Time b/w Bachelor\TS1/pcr/m/n/12 '\OT1/pcr/m/n/12
  s and Terminal Degree by Dept 2005-2006"[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 580--580
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 595--595
 []\OT1/pcr/m/n/12 ##  AFR ANTH  ART ARTH ASST ASTR  BIO CHEM CHIN CLAS COMP CSC
 I[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 581--581
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 596--596
 []\OT1/pcr/m/n/12 ##  7.0 10.6  7.0 12.6  9.0  6.3  6.7  5.7 15.0  7.6  9.0  8.
 1[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 582--582
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 597--597
 []\OT1/pcr/m/n/12 ## DANC ECON ENGL ENVI GEOS GERM GOES HIST HSCI JAPN  KOR LAT
 S[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 583--583
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 598--598
 []\OT1/pcr/m/n/12 ## 11.0  7.8  6.9 12.7  5.5  4.8 16.0  9.0  8.0 13.3 11.0  9.
 5[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 584--584
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 599--599
 []\OT1/pcr/m/n/12 ## LEAD  LIB LING MAST MATH  MUS   PE PHIL PHYS PSCI PSYC  RE
 L[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 585--585
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 600--600
 []\OT1/pcr/m/n/12 ##  7.0  6.8  7.0  8.0  6.0  9.0  7.4  9.6  6.0 10.1  5.9 10.
 7[] 
  []
@@ -1561,46 +1562,46 @@ Overfull \hbox (56.39981pt too wide) in paragraph at lines 585--585
 File: figure/unnamed-chunk-13-3.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-13-3.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-13-3.pdf used on input line 590.
+Package pdftex.def Info: figure/unnamed-chunk-13-3.pdf used on input line 605.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [41 <./figure/unnamed-chunk-13-2.pdf>]
-Overfull \hbox (113.99979pt too wide) in paragraph at lines 592--592
+Overfull \hbox (113.99979pt too wide) in paragraph at lines 607--607
 []\OT1/pcr/m/n/12 ## [1] "Avg Time b/w Bachelor\TS1/pcr/m/n/12 '\OT1/pcr/m/n/12
  s and Terminal Degree by Dept 2006-2007"[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 593--593
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 608--608
 []\OT1/pcr/m/n/12 ##  AFR AMST ANTH  ART ARTH ASST ASTR  BIO CHEM CHIN CLAS COM
 P[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 594--594
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 609--609
 []\OT1/pcr/m/n/12 ##  7.6  8.0 11.2  7.3 10.8  9.0  6.3  6.7  6.0 11.2  7.0  9.
 0[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 595--595
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 610--610
 []\OT1/pcr/m/n/12 ## CSCI DANC ECON ENGL ENVI GEOS GERM GOES HIST HSCI JAPN  KO
 R[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 596--596
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 611--611
 []\OT1/pcr/m/n/12 ##  6.9 11.0  7.4  6.9  8.6  6.2  4.8 16.0  9.2  8.0 11.0 11.
 0[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 597--597
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 612--612
 []\OT1/pcr/m/n/12 ## LATS LEAD  LIB LING MAST MATH  MUS   PE PHIL PHYS PSCI PSY
 C[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 598--598
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 613--613
 []\OT1/pcr/m/n/12 ##  9.5  7.3  7.2  8.0  8.0  5.9  8.6  7.4  9.3  6.0  9.2  5.
 5[] 
  []
@@ -1609,46 +1610,46 @@ Overfull \hbox (56.39981pt too wide) in paragraph at lines 598--598
 File: figure/unnamed-chunk-13-4.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-13-4.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-13-4.pdf used on input line 603.
+Package pdftex.def Info: figure/unnamed-chunk-13-4.pdf used on input line 618.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [42 <./figure/unnamed-chunk-13-3.pdf>]
-Overfull \hbox (113.99979pt too wide) in paragraph at lines 605--605
+Overfull \hbox (113.99979pt too wide) in paragraph at lines 620--620
 []\OT1/pcr/m/n/12 ## [1] "Avg Time b/w Bachelor\TS1/pcr/m/n/12 '\OT1/pcr/m/n/12
  s and Terminal Degree by Dept 2007-2008"[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 606--606
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 621--621
 []\OT1/pcr/m/n/12 ##  AFR AMST ANTH  ART ARTH ASST ASTR  BIO CHEM CHIN CLAS COM
 P[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 607--607
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 622--622
 []\OT1/pcr/m/n/12 ##  6.3 13.0 11.3  6.8 11.1  9.0  6.3  6.7  5.9 11.2  7.0 11.
 0[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 608--608
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 623--623
 []\OT1/pcr/m/n/12 ## CSCI DANC ECON ENGL ENVI GEOS GERM GOES HIST HSCI JAPN LAT
 S[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 609--609
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 624--624
 []\OT1/pcr/m/n/12 ##  6.6  5.5  7.2  7.1  5.8  5.7  6.0 16.0  9.2  8.0 11.0  8.
 7[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 610--610
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 625--625
 []\OT1/pcr/m/n/12 ## LEAD  LIB LING MAST MATH  MUS   PE PHIL PHYS PSCI PSYC  RE
 L[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 611--611
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 626--626
 []\OT1/pcr/m/n/12 ##  5.5  5.3  7.0  8.0  5.6  9.0  6.5  9.6  6.0  9.0  5.6 10.
 2[] 
  []
@@ -1657,46 +1658,46 @@ Overfull \hbox (56.39981pt too wide) in paragraph at lines 611--611
 File: figure/unnamed-chunk-13-5.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-13-5.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-13-5.pdf used on input line 616.
+Package pdftex.def Info: figure/unnamed-chunk-13-5.pdf used on input line 631.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [43 <./figure/unnamed-chunk-13-4.pdf>]
-Overfull \hbox (113.99979pt too wide) in paragraph at lines 618--618
+Overfull \hbox (113.99979pt too wide) in paragraph at lines 633--633
 []\OT1/pcr/m/n/12 ## [1] "Avg Time b/w Bachelor\TS1/pcr/m/n/12 '\OT1/pcr/m/n/12
  s and Terminal Degree by Dept 2008-2009"[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 619--619
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 634--634
 []\OT1/pcr/m/n/12 ##  AFR AMST ANTH ARAB  ART ARTH ASST ASTR  BIO CHEM CHIN CLA
 S[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 620--620
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 635--635
 []\OT1/pcr/m/n/12 ##  6.0 13.0 11.4 11.0  5.9 12.7  9.0  5.8  6.7  5.4  7.5  7.
 8[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 621--621
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 636--636
 []\OT1/pcr/m/n/12 ## COMP CSCI DANC ECON ENGL ENVI GEOS GERM GOES HIST HSCI JAP
 N[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 622--622
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 637--637
 []\OT1/pcr/m/n/12 ##  8.8  6.6  5.5  7.5  7.1  7.4  6.1  4.4 16.0  9.6  8.0 13.
 3[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 623--623
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 638--638
 []\OT1/pcr/m/n/12 ## LATS LEAD  LIB LING MAST MATH  MUS   PE PHIL PHYS PSCI PSY
 C[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 624--624
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 639--639
 []\OT1/pcr/m/n/12 ##  9.0  4.2  5.1  7.0  8.0  5.9  7.5  6.1  9.3  6.2 10.8  6.
 3[] 
  []
@@ -1705,46 +1706,46 @@ Overfull \hbox (56.39981pt too wide) in paragraph at lines 624--624
 File: figure/unnamed-chunk-13-6.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-13-6.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-13-6.pdf used on input line 629.
+Package pdftex.def Info: figure/unnamed-chunk-13-6.pdf used on input line 644.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [44 <./figure/unnamed-chunk-13-5.pdf>]
-Overfull \hbox (113.99979pt too wide) in paragraph at lines 631--631
+Overfull \hbox (113.99979pt too wide) in paragraph at lines 646--646
 []\OT1/pcr/m/n/12 ## [1] "Avg Time b/w Bachelor\TS1/pcr/m/n/12 '\OT1/pcr/m/n/12
  s and Terminal Degree by Dept 2009-2010"[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 632--632
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 647--647
 []\OT1/pcr/m/n/12 ##       AFR AMST ANTH ARAB  ART ARTH ASST ASTR  BIO CHEM CHI
 N[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 633--633
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 648--648
 []\OT1/pcr/m/n/12 ##   NA  7.8 13.0 10.8 11.0  6.2 11.0  9.0  6.3  6.8  5.8 15.
 0[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 634--634
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 649--649
 []\OT1/pcr/m/n/12 ## CLAS COMP CSCI DANC ECON ENGL ENVI GEOS GERM HIST HSCI JAP
 N[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 635--635
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 650--650
 []\OT1/pcr/m/n/12 ##  7.8  8.8  6.6  5.5  7.8  7.2  9.7  6.1  4.8  9.6  8.0 13.
 3[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 636--636
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 651--651
 []\OT1/pcr/m/n/12 ## LATS LEAD  LIB LING MAST MATH  MUS NSCI   PE PHIL PHYS PSC
 I[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 637--637
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 652--652
 []\OT1/pcr/m/n/12 ##  9.0  3.0  5.3  7.0  8.0  5.9  8.5 11.0  6.0  9.3  6.2 10.
 1[] 
  []
@@ -1753,46 +1754,46 @@ Overfull \hbox (56.39981pt too wide) in paragraph at lines 637--637
 File: figure/unnamed-chunk-13-7.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-13-7.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-13-7.pdf used on input line 642.
+Package pdftex.def Info: figure/unnamed-chunk-13-7.pdf used on input line 657.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [45 <./figure/unnamed-chunk-13-6.pdf>]
-Overfull \hbox (113.99979pt too wide) in paragraph at lines 644--644
+Overfull \hbox (113.99979pt too wide) in paragraph at lines 659--659
 []\OT1/pcr/m/n/12 ## [1] "Avg Time b/w Bachelor\TS1/pcr/m/n/12 '\OT1/pcr/m/n/12
  s and Terminal Degree by Dept 2010-2011"[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 645--645
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 660--660
 []\OT1/pcr/m/n/12 ##  AFR AMST ANTH ARAB  ART ARTH ASST ASTR  BIO CHEM CHIN CLA
 S[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 646--646
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 661--661
 []\OT1/pcr/m/n/12 ##  7.8 11.0 10.8 11.0  6.3 11.0  7.0  5.8  6.8  5.8 12.0  7.
 8[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 647--647
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 662--662
 []\OT1/pcr/m/n/12 ## COMP CSCI DANC ECON ENGL ENVI GEOS GERM HIST HSCI JAPN LAT
 S[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 648--648
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 663--663
 []\OT1/pcr/m/n/12 ## 11.0  6.6  5.5  7.6  6.8 10.8  6.1  4.8  9.7  8.0 11.2  9.
 7[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 649--649
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 664--664
 []\OT1/pcr/m/n/12 ## LEAD  LIB MAST MATH  MUS NSCI   PE PHIL PHYS PSCI PSYC  RE
 L[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 650--650
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 665--665
 []\OT1/pcr/m/n/12 ##  4.3  5.1  8.0  5.9  8.5 11.0  5.9  9.8  6.4  7.6  5.8 11.
 0[] 
  []
@@ -1801,46 +1802,46 @@ Overfull \hbox (56.39981pt too wide) in paragraph at lines 650--650
 File: figure/unnamed-chunk-13-8.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-13-8.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-13-8.pdf used on input line 655.
+Package pdftex.def Info: figure/unnamed-chunk-13-8.pdf used on input line 670.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [46 <./figure/unnamed-chunk-13-7.pdf>]
-Overfull \hbox (113.99979pt too wide) in paragraph at lines 657--657
+Overfull \hbox (113.99979pt too wide) in paragraph at lines 672--672
 []\OT1/pcr/m/n/12 ## [1] "Avg Time b/w Bachelor\TS1/pcr/m/n/12 '\OT1/pcr/m/n/12
  s and Terminal Degree by Dept 2011-2012"[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 658--658
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 673--673
 []\OT1/pcr/m/n/12 ##  AFR AMST ANTH ARAB  ART ARTH ASST ASTR  BIO CHEM CHIN CLA
 S[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 659--659
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 674--674
 []\OT1/pcr/m/n/12 ##  7.2 11.0 10.8 11.0  6.5 11.8  7.0  6.3  6.8  5.8 15.0  7.
 8[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 660--660
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 675--675
 []\OT1/pcr/m/n/12 ## COMP CSCI DANC ECON ENGL ENVI GEOS GERM HIST HSCI JAPN LAT
 S[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 661--661
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 676--676
 []\OT1/pcr/m/n/12 ## 11.0  6.6  6.3  7.5  6.7 10.8  6.1  5.4  9.5  8.0 11.0  8.
 8[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 662--662
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 677--677
 []\OT1/pcr/m/n/12 ## LEAD  LIB MAST MATH  MUS NSCI   PE PHIL PHYS PSCI PSYC  RE
 L[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 663--663
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 678--678
 []\OT1/pcr/m/n/12 ##  3.0  2.0  8.0  5.7  8.4 11.0  5.5  9.8  6.4  8.1  6.1 11.
 0[] 
  []
@@ -1849,46 +1850,46 @@ Overfull \hbox (56.39981pt too wide) in paragraph at lines 663--663
 File: figure/unnamed-chunk-13-9.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-13-9.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-13-9.pdf used on input line 668.
+Package pdftex.def Info: figure/unnamed-chunk-13-9.pdf used on input line 683.
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [47 <./figure/unnamed-chunk-13-8.pdf>]
-Overfull \hbox (113.99979pt too wide) in paragraph at lines 670--670
+Overfull \hbox (113.99979pt too wide) in paragraph at lines 685--685
 []\OT1/pcr/m/n/12 ## [1] "Avg Time b/w Bachelor\TS1/pcr/m/n/12 '\OT1/pcr/m/n/12
  s and Terminal Degree by Dept 2012-2013"[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 671--671
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 686--686
 []\OT1/pcr/m/n/12 ##  AFR AMST ANTH ARAB  ART ARTH ASST ASTR  BIO CHEM CHIN CLA
 S[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 672--672
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 687--687
 []\OT1/pcr/m/n/12 ##  7.2 12.0 10.8 11.0  7.1  9.8  9.0  5.8  6.8  5.4 15.0  8.
 2[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 673--673
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 688--688
 []\OT1/pcr/m/n/12 ## COMP CSCI DANC ECON ENGL ENVI GEOS GERM HIST HSCI JAPN LAT
 S[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 674--674
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 689--689
 []\OT1/pcr/m/n/12 ## 11.0  6.6  5.3  7.4  7.1 10.8  6.4  5.4  9.5  8.0 11.6  9.
 7[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 675--675
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 690--690
 []\OT1/pcr/m/n/12 ## LEAD  LIB MAST MATH  MUS NSCI   PE PHIL PHYS PSCI PSYC  RE
 L[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 676--676
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 691--691
 []\OT1/pcr/m/n/12 ##  4.3  2.0  8.0  5.8  6.7 11.0  5.2  9.5  6.2  8.0  5.8 10.
 0[] 
  []
@@ -1897,237 +1898,237 @@ Overfull \hbox (56.39981pt too wide) in paragraph at lines 676--676
 File: figure/unnamed-chunk-13-10.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-13-10.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-13-10.pdf used on input line 681.
+Package pdftex.def Info: figure/unnamed-chunk-13-10.pdf used on input line 696.
 
 (pdftex.def)             Requested size: 390.0pt x 292.4956pt.
  [48 <./figure/unnamed-chunk-13-9.pdf>]
-Overfull \hbox (113.99979pt too wide) in paragraph at lines 683--683
+Overfull \hbox (113.99979pt too wide) in paragraph at lines 698--698
 []\OT1/pcr/m/n/12 ## [1] "Avg Time b/w Bachelor\TS1/pcr/m/n/12 '\OT1/pcr/m/n/12
  s and Terminal Degree by Dept 2013-2014"[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 684--684
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 699--699
 []\OT1/pcr/m/n/12 ##       AFR AMST ANTH ARAB  ART ARTH ASST ASTR  BIO CHEM CHI
 N[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 685--685
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 700--700
 []\OT1/pcr/m/n/12 ##  0.0  9.8 13.0 10.8 13.5  7.7  9.1  9.0  5.8  7.2  5.7 10.
 8[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 686--686
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 701--701
 []\OT1/pcr/m/n/12 ## CLAS COMP CSCI DANC ECON ENGL ENVI GEOS GERM HIST HSCI INS
 T[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 687--687
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 702--702
 []\OT1/pcr/m/n/12 ##  7.9 12.0  6.6  6.0  6.8  7.6 10.8  7.6  5.2  9.9  8.0  5.
 0[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 688--688
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 703--703
 []\OT1/pcr/m/n/12 ## JAPN LATS LEAD MAST MATH  MUS NSCI   PE PHIL PHYS PSCI PSY
 C[] 
  []
 
 
-Overfull \hbox (56.39981pt too wide) in paragraph at lines 689--689
+Overfull \hbox (56.39981pt too wide) in paragraph at lines 704--704
 []\OT1/pcr/m/n/12 ##  9.8  8.0  7.0  8.0  5.1  6.6 11.0  4.9  9.5  6.1  9.4  6.
 0[] 
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 700.
+Package xcolor Warning: Incompatible color definition on input line 715.
 
 <figure/unnamed-chunk-14-1.pdf, id=522, 578.16pt x 289.08pt>
 File: figure/unnamed-chunk-14-1.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-14-1.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-14-1.pdf used on input line 701.
+Package pdftex.def Info: figure/unnamed-chunk-14-1.pdf used on input line 716.
 (pdftex.def)             Requested size: 390.0pt x 194.99706pt.
 
 
-Package xcolor Warning: Incompatible color definition on input line 706.
+Package xcolor Warning: Incompatible color definition on input line 721.
 
 [49 <./figure/unnamed-chunk-13-10.pdf>]
-Overfull \hbox (49.19981pt too wide) in paragraph at lines 708--708
+Overfull \hbox (49.19981pt too wide) in paragraph at lines 723--723
 []\OT1/pcr/m/n/12 ## [1] "Summary Statistics with Standard Deviation 2004-2005"
 [] 
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 717.
+Package xcolor Warning: Incompatible color definition on input line 732.
 
 <figure/unnamed-chunk-16-1.pdf, id=533, 578.16pt x 289.08pt>
 File: figure/unnamed-chunk-16-1.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-16-1.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-16-1.pdf used on input line 718.
+Package pdftex.def Info: figure/unnamed-chunk-16-1.pdf used on input line 733.
 (pdftex.def)             Requested size: 390.0pt x 194.99706pt.
 
 
-Package xcolor Warning: Incompatible color definition on input line 723.
+Package xcolor Warning: Incompatible color definition on input line 738.
 
 
-Overfull \hbox (49.19981pt too wide) in paragraph at lines 725--725
+Overfull \hbox (49.19981pt too wide) in paragraph at lines 740--740
 []\OT1/pcr/m/n/12 ## [1] "Summary Statistics with Standard Deviation 2005-2006"
 [] 
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 735.
+Package xcolor Warning: Incompatible color definition on input line 750.
 
 <figure/unnamed-chunk-18-1.pdf, id=534, 578.16pt x 289.08pt>
 File: figure/unnamed-chunk-18-1.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-18-1.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-18-1.pdf used on input line 736.
+Package pdftex.def Info: figure/unnamed-chunk-18-1.pdf used on input line 751.
 (pdftex.def)             Requested size: 390.0pt x 194.99706pt.
 
 
-Package xcolor Warning: Incompatible color definition on input line 741.
+Package xcolor Warning: Incompatible color definition on input line 756.
 
 [50 <./figure/unnamed-chunk-14-1.pdf> <./figure/unnamed-chunk-16-1.pdf>]
-Overfull \hbox (49.19981pt too wide) in paragraph at lines 743--743
+Overfull \hbox (49.19981pt too wide) in paragraph at lines 758--758
 []\OT1/pcr/m/n/12 ## [1] "Summary Statistics with Standard Deviation 2006-2007"
 [] 
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 752.
+Package xcolor Warning: Incompatible color definition on input line 767.
 
 <figure/unnamed-chunk-20-1.pdf, id=550, 578.16pt x 289.08pt>
 File: figure/unnamed-chunk-20-1.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-20-1.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-20-1.pdf used on input line 753.
+Package pdftex.def Info: figure/unnamed-chunk-20-1.pdf used on input line 768.
 (pdftex.def)             Requested size: 390.0pt x 194.99706pt.
 
 
-Package xcolor Warning: Incompatible color definition on input line 758.
+Package xcolor Warning: Incompatible color definition on input line 773.
 
 
-Overfull \hbox (49.19981pt too wide) in paragraph at lines 760--760
+Overfull \hbox (49.19981pt too wide) in paragraph at lines 775--775
 []\OT1/pcr/m/n/12 ## [1] "Summary Statistics with Standard Deviation 2007-2008"
 [] 
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 770.
+Package xcolor Warning: Incompatible color definition on input line 785.
 
 <figure/unnamed-chunk-22-1.pdf, id=551, 578.16pt x 289.08pt>
 File: figure/unnamed-chunk-22-1.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-22-1.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-22-1.pdf used on input line 771.
+Package pdftex.def Info: figure/unnamed-chunk-22-1.pdf used on input line 786.
 (pdftex.def)             Requested size: 390.0pt x 194.99706pt.
 
 
-Package xcolor Warning: Incompatible color definition on input line 776.
+Package xcolor Warning: Incompatible color definition on input line 791.
 
 [51 <./figure/unnamed-chunk-18-1.pdf> <./figure/unnamed-chunk-20-1.pdf>]
-Overfull \hbox (49.19981pt too wide) in paragraph at lines 778--778
+Overfull \hbox (49.19981pt too wide) in paragraph at lines 793--793
 []\OT1/pcr/m/n/12 ## [1] "Summary Statistics with Standard Deviation 2008-2009"
 [] 
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 787.
+Package xcolor Warning: Incompatible color definition on input line 802.
 
 <figure/unnamed-chunk-24-1.pdf, id=567, 578.16pt x 289.08pt>
 File: figure/unnamed-chunk-24-1.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-24-1.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-24-1.pdf used on input line 788.
+Package pdftex.def Info: figure/unnamed-chunk-24-1.pdf used on input line 803.
 (pdftex.def)             Requested size: 390.0pt x 194.99706pt.
 
 
-Package xcolor Warning: Incompatible color definition on input line 793.
+Package xcolor Warning: Incompatible color definition on input line 808.
 
 
-Overfull \hbox (49.19981pt too wide) in paragraph at lines 795--795
+Overfull \hbox (49.19981pt too wide) in paragraph at lines 810--810
 []\OT1/pcr/m/n/12 ## [1] "Summary Statistics with Standard Deviation 2009-2010"
 [] 
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 805.
+Package xcolor Warning: Incompatible color definition on input line 820.
 
 <figure/unnamed-chunk-26-1.pdf, id=568, 578.16pt x 289.08pt>
 File: figure/unnamed-chunk-26-1.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-26-1.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-26-1.pdf used on input line 806.
+Package pdftex.def Info: figure/unnamed-chunk-26-1.pdf used on input line 821.
 (pdftex.def)             Requested size: 390.0pt x 194.99706pt.
 
 
-Package xcolor Warning: Incompatible color definition on input line 811.
+Package xcolor Warning: Incompatible color definition on input line 826.
 
 [52 <./figure/unnamed-chunk-22-1.pdf> <./figure/unnamed-chunk-24-1.pdf>]
-Overfull \hbox (49.19981pt too wide) in paragraph at lines 813--813
+Overfull \hbox (49.19981pt too wide) in paragraph at lines 828--828
 []\OT1/pcr/m/n/12 ## [1] "Summary Statistics with Standard Deviation 2010-2011"
 [] 
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 822.
+Package xcolor Warning: Incompatible color definition on input line 837.
 
 <figure/unnamed-chunk-28-1.pdf, id=584, 578.16pt x 289.08pt>
 File: figure/unnamed-chunk-28-1.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-28-1.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-28-1.pdf used on input line 823.
+Package pdftex.def Info: figure/unnamed-chunk-28-1.pdf used on input line 838.
 (pdftex.def)             Requested size: 390.0pt x 194.99706pt.
 
 
-Package xcolor Warning: Incompatible color definition on input line 828.
+Package xcolor Warning: Incompatible color definition on input line 843.
 
 
-Overfull \hbox (49.19981pt too wide) in paragraph at lines 830--830
+Overfull \hbox (49.19981pt too wide) in paragraph at lines 845--845
 []\OT1/pcr/m/n/12 ## [1] "Summary Statistics with Standard Deviation 2011-2012"
 [] 
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 841.
+Package xcolor Warning: Incompatible color definition on input line 856.
 
 <figure/unnamed-chunk-30-1.pdf, id=585, 578.16pt x 289.08pt>
 File: figure/unnamed-chunk-30-1.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-30-1.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-30-1.pdf used on input line 842.
+Package pdftex.def Info: figure/unnamed-chunk-30-1.pdf used on input line 857.
 (pdftex.def)             Requested size: 390.0pt x 194.99706pt.
 
 
-Package xcolor Warning: Incompatible color definition on input line 847.
+Package xcolor Warning: Incompatible color definition on input line 862.
 
 [53 <./figure/unnamed-chunk-26-1.pdf> <./figure/unnamed-chunk-28-1.pdf>]
-Overfull \hbox (49.19981pt too wide) in paragraph at lines 849--849
+Overfull \hbox (49.19981pt too wide) in paragraph at lines 864--864
 []\OT1/pcr/m/n/12 ## [1] "Summary Statistics with Standard Deviation 2012-2013"
 [] 
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 858.
+Package xcolor Warning: Incompatible color definition on input line 873.
 
 <figure/unnamed-chunk-32-1.pdf, id=602, 578.16pt x 289.08pt>
 File: figure/unnamed-chunk-32-1.pdf Graphic file (type pdf)
 
 <use figure/unnamed-chunk-32-1.pdf>
-Package pdftex.def Info: figure/unnamed-chunk-32-1.pdf used on input line 859.
+Package pdftex.def Info: figure/unnamed-chunk-32-1.pdf used on input line 874.
 (pdftex.def)             Requested size: 390.0pt x 194.99706pt.
 
 
-Package xcolor Warning: Incompatible color definition on input line 864.
+Package xcolor Warning: Incompatible color definition on input line 879.
 
 
-Overfull \hbox (49.19981pt too wide) in paragraph at lines 866--866
+Overfull \hbox (49.19981pt too wide) in paragraph at lines 881--881
 []\OT1/pcr/m/n/12 ## [1] "Summary Statistics with Standard Deviation 2013-2014"
 [] 
  []
@@ -2141,14 +2142,14 @@ Here is how much of TeX's memory you used:
  17110 multiletter control sequences out of 15000+600000
  9400 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,6n,54p,435b,272s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,6n,54p,628b,272s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist
 /fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/co
 urier/ucrr8a.pfb>
-Output written on HHProjectPaperFinalKnitrPlusSweave.pdf (54 pages, 343966 byte
+Output written on HHProjectPaperFinalKnitrPlusSweave.pdf (54 pages, 346008 byte
 s).
 PDF statistics:
  636 PDF objects out of 1000 (max. 8388607)

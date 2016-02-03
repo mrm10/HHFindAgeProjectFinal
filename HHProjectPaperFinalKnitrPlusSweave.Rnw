@@ -71,16 +71,16 @@ concordance=TRUE
 
 
 <<echo=FALSE>>=
-Fac0405 = read.csv("~/MattMorris18/HHFindAge/data/04 05 Faculty.csv")
-Fac0506 = read.csv("~/MattMorris18/HHFindAge/data/05 06 Faculty.csv")
-Fac0607 = read.csv("~/MattMorris18/HHFindAge/data/06 07 Faculty.csv")
-Fac0708 = read.csv("~/MattMorris18/HHFindAge/data/07 08 Faculty.csv")
-Fac0809 = read.csv("~/MattMorris18/HHFindAge/data/08 09 Faculty.csv")
-Fac0910 = read.csv("~/MattMorris18/HHFindAge/data/09 10 Faculty.csv")
-Fac1011 = read.csv("~/MattMorris18/HHFindAge/data/10 11 Faculty.csv")
-Fac1112 = read.csv("~/MattMorris18/HHFindAge/data/11 12 Faculty.csv")
-Fac1213 = read.csv("~/MattMorris18/HHFindAge/data/1213 Faculty.csv")
-Fac1314 = read.csv("~/MattMorris18/HHFindAge/data/1314 Faculty.csv")
+Fac0405 = read.csv("~/FinalProject2/HHFindAge/data/04 05 Faculty.csv")
+Fac0506 = read.csv("~/FinalProject2/HHFindAge/data/05 06 Faculty.csv")
+Fac0607 = read.csv("~/FinalProject2/HHFindAge/data/06 07 Faculty.csv")
+Fac0708 = read.csv("~/FinalProject2/HHFindAge/data/07 08 Faculty.csv")
+Fac0809 = read.csv("~/FinalProject2/HHFindAge/data/08 09 Faculty.csv")
+Fac0910 = read.csv("~/FinalProject2/HHFindAge/data/09 10 Faculty.csv")
+Fac1011 = read.csv("~/FinalProject2/HHFindAge/data/10 11 Faculty.csv")
+Fac1112 = read.csv("~/FinalProject2/HHFindAge/data/11 12 Faculty.csv")
+Fac1213 = read.csv("~/FinalProject2/HHFindAge/data/1213 Faculty.csv")
+Fac1314 = read.csv("~/FinalProject2/HHFindAge/data/1314 Faculty.csv")
 @
 
 <<echo=FALSE>>=
@@ -109,6 +109,7 @@ avgage1213 = round(with(Fac1213r,mean(Age)),digits=1)
 avgage1314 = round(with(Fac1314r,mean(Age)),digits=1)
 avgageovertime = c(avgage0405,avgage0506,avgage0607,avgage0708,avgage0809,avgage0910,avgage1011,avgage1112,avgage1213,avgage1314)
 @
+
 
 \bigskip
 My estimated average age for the Williams College Faculty for the last 10 years are as follows:
@@ -142,6 +143,8 @@ My estimated average age for the Williams College Faculty for the last 10 years 
 barplot(avgageovertime,main="Average Age of Williams Faculty over Past 10 Years",ylab="Age",names.arg=c("2004-2005","2005-2006","2006-2007","2007-2008","2008-2009","2009-2010","2010-2011","2011-2012","2012-2013","2013-2014"),col=terrain.colors(10),las=2,ylim=c(0,50),xlab="Academic Year")
 @
 
+\bigskip
+Over the last 10 years, the average age of the Williams College Faculty has, on average, increased significantly. Over the last five academic years, while the average age has stagnated around 48, compared to the average age of 45 in the 2004-2005 academic year, a three year increase in average age is important to note.
 <<echo=FALSE>>=
 minage0405 = with(Fac0405r,min(Age))
 maxage0405 = with(Fac0405r,max(Age))
@@ -264,7 +267,12 @@ Number of Faculty by Academic Year(LIB Disclaimer)
 \end{center}
 
 \bigskip
-How has the age distribution of the professors changed over time?
+
+While examining the number of faculty by academic year in the last 10 years it appears as though the number of faculty increased somewhat steadily from the 2004-2005 academic year through the 2008-2009 academic year and then dropped off significantly after the 2008-2009 academic year from 422 to 378. This data is somewhat misleading as the Library faculty were only included in the course catalog archives through the 2010-2011 academic year. This suggests that the number of faculty in the last three academic years is most likely about 25 faculty members lower than it actually was. 
+
+\bigskip
+
+A key question in our analysis of the Williams College faculty for the past 10 years is how the age distribution has changed over time. By examining histograms over the last 10 years it is easy to observe the trends in the faculty member ages.
 
 <<echo=FALSE,fig.height=6,fig.width=8>>=
 hist0405 = with(Fac0405r,hist(Age, main = "Faculty Age of Williams Professors 2004-2005",ylab = "Number of Professors",ylim=c(0,70),xlim=c(20,90),las=2,col=cm.colors(12)))
@@ -280,7 +288,11 @@ hist1314 = with(Fac1314r,hist(Age, main = "Faculty Age of Williams Professors 20
 @
 
 \bigskip
-Average Ages by Department??
+We see between the 2004-2005 and 2007-2008 academic years the age distribution is right-skewed, with the ages being primarily concentrated between 30 and 60. Between the 2008-2009 and 2012-2013 academic year display implies a fairly normal and symmetric age distribution of the faculty, with one outlier in the 85-90 age range. The ages continued to be primarily concentrated between 30 and 60, or 30 and 65. The 2012-2013 distribution is more right skewed than the other graphs and the outlier (Henry J. Bruton) is not apparent in the 2013-2014 display.
+
+\bigskip
+A key question in our analysis of the Williams College faculty for the past 10 years is the average age distribution by department and how it has changed over time. By examining barplot over the last 10 years it is interesting to observe the trends in the faculty member ages and how they are connected to departments.
+
 
 <<echo=FALSE,fig.height=6,fig.width=8>>=
 avgbydept0405 = round(tapply(Fac0405r$Age,Fac0405r$Department,mean),digits=1)
@@ -327,7 +339,11 @@ avgbydept1314
 @
 
 \bigskip
-How do the ages differ by gender?
+It appears as though most of the department ages tend to be concentrated around 45 to 50, with a small number of departments being at the low and high ends. The Martime Studies, History of Science, Astronomy, Anthropology departments tended to be consistently on the high end, while the language departments like Arabic, Japanese, French, Spanish, Linguistics, Chinese, as well as Latino and Africana Studies tended to be at the low end.
+
+\bigskip
+Next, we analyze how the average age of the Williams College faculty for the past 10 years is different by gender. By examining barplots over the last 10 years it is easy to observe the difference between the average age of the male and female faculty.
+
 
 <<echo=FALSE,fig.height=6,fig.width=8>>=
 avgbygender0405 = round(tapply(Fac0405r$Age,Fac0405r$Gender,mean),digits=1)
@@ -371,6 +387,8 @@ bpg1314 = barplot(avgbygender1314,main="Average Age of Faculty by Gender 2013-20
 print("Average Age by Gender 2013-2014:")
 avgbygender1314
 @
+\bigskip
+An interesting aspect of this analysis of the course catalogs is that the male faculty has been signficantly older than the female faculty for the past 10 years. In addtion, both the male and female faculty average age has increased over the past 10 years, with the female faculty aging by 2 years and the male faculty aging by 3 years. It is also interesting to note that the gap in average age between the female and male faculty has increased, with the gap in 2004-2005 being 3.4 years and in 2013-204 the gap was 5.3 years.
 
 \bigskip
 How High is the Correlation between Age and Year of Terminal Degree.
