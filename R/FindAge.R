@@ -17,16 +17,16 @@ library(RCurl)
 library(foreign)
 
 #Defining urls
-url1 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/04%2005%20Faculty.csv"
-url2 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/05%2006%20Faculty.csv"
-url3 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/06%2007%20Faculty.csv"
-url4 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/07%2008%20Faculty.csv"
-url5 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/08%2009%20Faculty.csv"
-url6 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/09%2010%20Faculty.csv"
-url7 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/10%2011%20Faculty.csv"
-url8 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/11%2012%20Faculty.csv"
-url9 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/1213%20Faculty.csv"
-url10 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/1314%20Faculty.csv"
+url1 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/data/04%2005%20Faculty.csv"
+url2 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/data/05%2006%20Faculty.csv"
+url3 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/data/06%2007%20Faculty.csv"
+url4 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/data/07%2008%20Faculty.csv"
+url5 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/data/08%2009%20Faculty.csv"
+url6 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/data/09%2010%20Faculty.csv"
+url7 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/data/10%2011%20Faculty.csv"
+url8 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/data/11%2012%20Faculty.csv"
+url9 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/data/1213%20Faculty.csv"
+url10 <- "https://raw.githubusercontent.com/mrm10/HHFindAgeProjectFinal/master/data/1314%20Faculty.csv"
 
 
 
