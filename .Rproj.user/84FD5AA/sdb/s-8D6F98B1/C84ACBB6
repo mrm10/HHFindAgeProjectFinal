@@ -1,0 +1,16 @@
+{
+    "contents" : "Package: HHFindAge\nType: Package\nTitle: Estimating Williams College Faculty Name\nVersion: 1.0\nDate: 2016-02-01\nAuthor: Matthew Morris\nMaintainer: Matthew Morris <mrm10@williams.edu>\nDescription: Finds Age of Williams College Faculty over several years and other characteristics of the Faculty such as department, gender, and terminal degree.\nLicense: GPL-2\n",
+    "created" : 1454377122269.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4061412931",
+    "id" : "C84ACBB6",
+    "lastKnownWriteTime" : 1454377227,
+    "path" : "~/MattMorris18/HHFindAge/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "dcf"
+}

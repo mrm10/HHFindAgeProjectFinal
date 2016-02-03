@@ -1,0 +1,16 @@
+{
+    "contents" : "\\name{HHFindAge-package}\n\\alias{HHFindAge-package}\n\\alias{HHFindAge}\n\\docType{package}\n\\title{\nWhat the package does (short line)\n~~ package title ~~\n}\n\\description{\nMore about what it does (maybe more than one line)\n~~ A concise (1-5 lines) description of the package ~~\n}\n\\details{\n\\tabular{ll}{\nPackage: \\tab HHFindAge\\cr\nType: \\tab Package\\cr\nVersion: \\tab 1.0\\cr\nDate: \\tab 2016-02-01\\cr\nLicense: \\tab What license is it under?\\cr\n}\n~~ An overview of how to use the package, including ~~\n~~ the most important functions ~~\n}\n\\author{\nWho wrote it\n\nMaintainer: Who to complain to <yourfault@somewhere.net>\n~~ The author and/or maintainer of the package ~~\n}\n\\references{\n~~ Literature or other references for background information ~~\n}\n~~ Optionally other standard keywords, one per ~~\n~~ line, from file KEYWORDS in the R documentation ~~\n~~ directory ~~\n\\keyword{ package }\n\\seealso{\n~~ Optional links to other man pages, e.g. ~~\n~~ \\code{\\link[<pkg>:<pkg>-package]{<pkg>}} ~~\n}\n\\examples{\n~~ simple examples of the most important functions ~~\n}\n",
+    "created" : 1454463479491.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3506774195",
+    "id" : "206EAFE4",
+    "lastKnownWriteTime" : 1454376973,
+    "path" : "~/MattMorris18/HHFindAge/man/HHFindAge-package.Rd",
+    "project_path" : "man/HHFindAge-package.Rd",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_doc"
+}

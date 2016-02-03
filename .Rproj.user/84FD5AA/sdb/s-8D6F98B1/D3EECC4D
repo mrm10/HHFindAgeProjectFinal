@@ -1,0 +1,17 @@
+{
+    "contents" : "avgbydept1314$STAT\nnames(avgbydept1314)\nhead(avgbydept1314)\navgbydept1314[[which(names(avgbydept1314) == \"ARAB\")]\nhead(avgbygender0405)\n\n\n\nacademicyear = 1314\nyearofterminal = \"1967\"\nresult = get(paste0(\"avgagebytermd\",academicyear))\nresult = result[[which(names(result) == yearofterminal)]]\n",
+    "created" : 1454442066207.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "935034486",
+    "id" : "D3EECC4D",
+    "lastKnownWriteTime" : 8319606919438270465,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
