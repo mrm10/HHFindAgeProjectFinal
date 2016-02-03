@@ -138,7 +138,20 @@ avgage1314 = round(with(Fac1314r,mean(Age)),digits=1)
 avgageovertime = c(avgage0405,avgage0506,avgage0607,avgage0708,avgage0809,avgage0910,avgage1011,avgage1112,avgage1213,avgage1314)
 @
 
+\bigskip
+{\bf{Introduction}}
 
+\bigskip
+In this paper we analyze several aspects of the archived Williams College Course Catalogs. Specifically, we look at the relationship between estimated age of the Williams College faculty between the years 2004-2005 and 2013-2014, inclusive, and other characteristics of the data on the Williams College faculty taken from the archived course catalogs. We will break down estimated age by gender, year of terminal degree, and subject department.
+
+\bigskip
+{\bf{Data and Methods}}
+
+\bigskip
+In collecting all of the necessary data to conduct a ten-year analysis of the Williams College faculty I went through every course catalog of academic year interest and of each faculty member recorded gender, the year he received his B.A., subject department denoted by course catalog abbreviation, and the year he earned his terminal degree. If it was difficult to tell gender or the required information was not available, an internet search was conducted to gather the missing information. In estimating age, I assumed each faculty member earned his B.A. when he was 22. I followed this assumption by subtracting 22 from the year he received his B.A. This result was subtracted by the first year in the academic year to yield the desired estimated age. For example, if the academic year is 2010-2011, the first year in the academic year is 2010, and if the subject received his B.A. in 2001, we estimate the subject's age to be 2010 - (2001-22) = 31. In managing my data sets I added a column that calculated the difference between the year of the terminal degree and the year of the B.A. to allow me to later conduct an analysis of if it takes longer for professors in certain departments to earn a PhD or terminal degree than in other departments. From our completed data sets we were able to manipulate the data, creating impressive graphics and producing interesting results.
+
+\bigskip
+{\bf{Details of the Results}}
 
 \bigskip
 My estimated average age for the Williams College Faculty for the last 10 years are as follows:
@@ -324,7 +337,7 @@ hist1314 = with(Fac1314r,hist(Age, main = "Faculty Age of Williams Professors 20
 We see between the 2004-2005 and 2007-2008 academic years the age distribution is right-skewed, with the ages being primarily concentrated between 30 and 60. Between the 2008-2009 and 2012-2013 academic year display implies a fairly normal and symmetric age distribution of the faculty, with one outlier in the 85-90 age range. The ages continued to be primarily concentrated between 30 and 60, or 30 and 65. The 2012-2013 distribution is more right skewed than the other graphs and the outlier (Henry J. Bruton) is not apparent in the 2013-2014 display.
 
 \bigskip
-A key question in our analysis of the Williams College faculty for the past 10 years is the average age distribution by department and how it has changed over time. By examining barplot over the last 10 years it is interesting to observe the trends in the faculty member ages and how they are connected to departments.
+A key question in our analysis of the Williams College faculty for the past 10 years is the average age distribution by department and how it has changed over time. By examining barplots over the last 10 years it is interesting to observe the trends in the faculty member ages and how they coincide with subject departments.
 
 <<echo=FALSE,fig.height=6,fig.width=8>>=
 avgbydept0405 = round(tapply(Fac0405r$Age,Fac0405r$Department,mean),digits=1)
@@ -425,7 +438,7 @@ avgbygender1314
 An interesting aspect of this analysis of the course catalogs is that the male faculty has been signficantly older than the female faculty for the past 10 years. In addtion, both the male and female faculty average age has increased over the past 10 years, with the female faculty aging by 2 years and the male faculty aging by 3 years. It is also interesting to note that the gap in average age between the female and male faculty has increased, with the gap in 2004-2005 being 3.4 years and in 2013-2014 the gap was 5.3 years.
 
 \bigskip
-This may seem trivial, but I decided to analyze the relationship between age and year of terminal degree. As expected, there was a very high correlation between high age and older year of terminal degree. The following barplots followed by the correlation between Age and Year of Terminal Degree. The correlation is negative because the lower the age the "higher"(more recent) the year of terminal degree is.
+Next, we analyze the relationship between age and year of terminal degree. As to be expected, there was a very high correlation between high age and older year of terminal degree. The following barplots followed by the correlation between Age and Year of Terminal Degree. The correlation is negative because the lower the age the "higher"(more recent) the year of terminal degree is.
 
 <<echo=FALSE,fig.height=6,fig.width=8>>=
 avgagebytermd0405 = tapply(Fac0405r$Age,Fac0405r$Year.of.Terminal,mean)
@@ -521,10 +534,10 @@ avgbytermdegdept1314
 
 
 \bigskip
-Overall, it seems as though the language departments require a greater amount of time to earn a PhD in than most of the other departments. Across all departments and over all years the amount of time required between a Bachelor's Degree and a Terminal Degree is between 6 and 8 years. Thus, we see that, on average, the French, Spanish, Russian, Religion, Neuroscience, Art History, Anthropology, Chinese, Japanese, and Arabic departments have unusually high rates(10+ years) of time between the B.A. and terminal degree. While there were not many departments where on average over all of the years it took less than 6 years in between the B.A. and terminal degree, the Library faculty averaged between 3 and 4 years and the Leadership Studies department was often around 4 or 5 years. The Leadership Studies department being on the low end of this analysis primarily stems from many visiting professors in the department who frequently did not have PhD's.
+Overall, it seems as though the language departments require a greater amount of time to earn a PhD in than most of the other departments. Across all departments and over all years the average amount of time required between a Bachelor's Degree and a Terminal Degree is between 6 and 8 years. Thus, we see that, on average, the French, Spanish, Russian, Religion, Neuroscience, Art History, Anthropology, Chinese, Japanese, and Arabic departments have unusually high rates(10+ years) of time between the B.A. and terminal degree. While there were not many departments where on average over all of the years it took less than 6 years in between the B.A. and terminal degree, the Library faculty averaged between 3 and 4 years and the Leadership Studies department was often around 4 or 5 years. The Leadership Studies department being on the low end of this analysis primarily stems from many visiting professors in the department who frequently did not have PhD's.
 
 \bigskip
-We conclude our analysis of the Williams College Faculty for the last 10 years by examining the age distribution without the ages being separated into bins as shown earlier in the histograms. By analyzing the boxplots by academic year it is easier to see the shape and spread of the ages. In addition, the summary statistics of the boxplots provide us with details as to the oldest and youngest professor's age in that year, the first and third quartile, and mean and median in the academic year. In addition to the summary statistics, I provided the standard deviation of the ages in the academic year in order to see if the age distribution became more or less volatile over time.
+We conclude our data analysis of the Williams College faculty for the last 10 years by examining the age distribution in a slightly different manner than our histogram analysis. By analyzing the boxplots by academic year it is easier to see the shape and spread of the ages. In addition, the summary statistics of the boxplots provide us with details as to the oldest and youngest professor's age in that year, the first and third quartile, and mean and median in the academic year. In addition to the summary statistics, I provided the standard deviation of the ages in the academic year in order to see if the age distribution became more or less volatile over time.
 
 <<echo=FALSE,fig.height=4,fig.width=8>>=
 boxplotage0405 = with(Fac0405r,boxplot(Age,ylim=c(0,100),xlab="Age",col="sienna",main="Williams Faculty Age Distribution 2004-2005",horizontal=TRUE))
@@ -645,6 +658,11 @@ sdage1314 = with(Fac1314r,print(paste0("Standard Deviation:",round(sd(Age),digit
 \bigskip
 As observed, the standard deviation of the age distribution over time has increased from 10.9 in 2004-2005 to 12.22 in 2013-2014. Also, compared to 2004-2005, the first and third quartile, as well as the mean and median are higher in 2013-2014, confirming our earlier conclusion that, as a whole, the Williams College faculty have a significantly higher collective age today compared to 10 years ago. It is also interesting to note how beginning in the 2008-2009 academic year the age distribution became more symmetric, which prevailed through the 2013-2014 academic year. Prior to 2008-2009 academic year, the age distribution was right skewed. Through the analysis of the boxplots, we gain more insight as to the range of the middle 50 percent of the faculty ages. As observed, the middle 50 percent of faculty had ages between the first quartile range of 36-39 and the third quartile range of 53-58.
 
+\bigskip
+{\bf{Conclusion}}
+
+\bigskip
+When reflecting on our analysis of the Williams College Faculty over a ten year period, many fascinating results come to light. We have found that the age distribution has become less skewed and more normal and symmetric over this period, the average age of the faculty continues to become greater, and certain departments may have certain characteristics leading them to have higher or lower average ages or more or less time spent working towards a PhD compared to the rest of the faculty. Looking forwards, determining what these characteristics are would be a unique way to delve deeper into the nature of the faculty at Williams College.   
 
 \bigskip
 \centerline{\bf{Bibliography}}
